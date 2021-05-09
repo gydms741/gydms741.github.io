@@ -3,8 +3,6 @@ title: "sql에서의 index"
 date: 2021-05-07 23:40:28 -0400
 categories: sql
 ---
-sql에서는 index가 정말 중요하다는 말을 많이 들었다.
-도대체가 마음에 와닿지 않아서 확실히 공부하고 넘어가야할 것 같아 index에 대해 정리해보겠다.
 
 ### index란?
 
