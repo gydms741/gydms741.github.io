@@ -19,7 +19,7 @@ categories: CS
 - Checked Exception : 컴파일 시간에 검사하는 예외로서, 처리하지 않으면 컴파일 에러가 나므로 반드시 처리해야 한다. 처리 방법에는 try/catch 로 감싸거나, throws로 이를 호출한 메서드에게 예외를 넘겨준다. (이는 자바에만 존재하는 특별한 예외 처리 방식이다.)
 - Unchecked Exception : 런타임 시간에 검사하는 예외로서, 컴파일하는데 문제는 없지만 실행 중에 예외가 발생할 수 있다. 주로 프로그래머의 실수, 잘못 작성된 코드, 사용자가 애플리케이션을 잘 못 사용할 때 이를 처리하는 경우에 발생한다.
 
-[Untitled](https://www.notion.so/4f514f458bca49e6890aa2a4d2e81200)
+[exception](https://www.notion.so/4f514f458bca49e6890aa2a4d2e81200)
 
 ## 예외처리 코드 및 실행순서(Try-Catch-Finally)
 
