@@ -1,6 +1,6 @@
 ---
 title: "Array와 List"
-date: 2021-05-20 23:33:28 -0400
+date: 2021-06-20 23:33:28 -0400
 categories: Java
 ---
 
