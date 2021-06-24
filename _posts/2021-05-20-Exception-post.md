@@ -93,3 +93,5 @@ public class ExceptionTest04{
 
 }
 ```
+
+[NPE(NullPointerException)](https://www.notion.so/NPE-NullPointerException-309188c67c494ed9ad428cfc9ed6de1e)
